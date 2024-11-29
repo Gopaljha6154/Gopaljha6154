@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gopal Jha
 - 👀 I’m interested in recreating code
-- 🌱 I’m currently learning nodejs
+- 🌱 I’m currently learning Python
 - 🌟 I’m looking to try my best
 - 📫 How to reach me: contact.gopalkumar099@gmail.com
 - 😄 Pronouns: Developer!!
